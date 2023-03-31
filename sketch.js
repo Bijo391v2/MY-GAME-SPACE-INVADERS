@@ -18,8 +18,7 @@ function preload(){
     enemy1Img=loadImage("enemy1.png")
     enemy2Img=loadImage("enemy2.png")
     enemy3Img=loadImage("enemy3.png")
-    enemy4Img=loadImage("enemy4.png")
-    enemy5Img=loadImage("enemy5.png")
+    enemy4Img=loadImage("Enemy4.png")
     baseImg=loadImage("Base.png")
 }
 
